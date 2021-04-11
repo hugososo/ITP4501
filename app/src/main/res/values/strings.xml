@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">PTMS Assignment</string>
+    <string name="questionNo">No</string>
+    <string name="question">Question</string>
+    <string name="answer">Answer</string>
+    <string name="isCorrect">Correct?</string>
+    <string name="testNo">No</string>
+    <string name="testDate">Date</string>
+    <string name="testTime">Time</string>
+    <string name="duration">Duration(s)</string>
+    <string name="correctCount">Correct Count</string>
+
+    <string-array name="test_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+</resources>
